@@ -1,0 +1,4 @@
+{
+  "localhost": "http://localhost:3000",
+  "production": "https://hub.testingtalks.com.au/"
+}
